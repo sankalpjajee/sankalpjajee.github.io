@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>University of South Carolina <br> AIISC</a> jajeesankalp@gmail.com
+subtitle: <a href='https://cse.sc.edu/'>University of South Carolina</a> | <a href='https://aiisc.ai/'> AIISC <a> <br> jajeesankalp@gmail.com
 
 profile:
   align: right
